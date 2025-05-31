@@ -4,6 +4,7 @@
 API RESTful para gestión de productos y categorías con arquitectura limpia, seguridad JWT.
 
 ## 🛠️ Tecnologías
+- **Java** - Lenguaje
 - **Spring Boot 3** - Framework principal
 - **Spring Security + JWT** - Autenticación
 - **Spring Data JPA** - Persistencia
